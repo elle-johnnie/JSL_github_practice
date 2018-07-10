@@ -1,1 +1,2 @@
-# Ada_JumpStart_LIve
+# Ada_JumpStart_Live
+practice connection via command line to git repository
